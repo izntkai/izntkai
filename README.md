@@ -1,3 +1,5 @@
+<div align="center">
+
 # hey, i'm kai.
 
 developer, builder, and someone who enjoys turning ideas into real things.
@@ -5,13 +7,14 @@ developer, builder, and someone who enjoys turning ideas into real things.
 i build things for the web, experiment with new technologies, and occasionally start projects that are way bigger than i initially planned.
 
 ### currently
-- building projects and exploring new ideas
-- learning something new every day
-- focused on creating useful, thoughtful digital experiences
+
+building projects and exploring new ideas  
+learning something new every day  
+focused on creating useful, thoughtful digital experiences
 
 ### tech stack
 
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32" height="32" alt="React" />
@@ -24,11 +27,11 @@ i build things for the web, experiment with new technologies, and occasionally s
 
 ### projects
 
-some things i'm working on:
+**[klipply](https://klipply.xyz)** — a platform connecting brands and creators through content campaigns.
 
-- **[klipply](https://klipply.xyz)** — a platform connecting brands and creators through content campaigns.
-- **lifora** — a realistic, story-driven life simulation game.
-- **uniflix** — a streaming interface experiment designed for every screen.
+**lifora** — a realistic, story-driven life simulation game.
+
+**uniflix** — a streaming interface experiment designed for every screen.
 
 ### github stats
 
@@ -45,3 +48,5 @@ some things i'm working on:
 ---
 
 <sub>always building something.</sub>
+
+</div>

@@ -1,7 +1,7 @@
 # Carlette
 
 **Full Stack Developer**  
-<sub>Building things for the web and beyond.</sub>
+<sub>Turning ideas into real things.</sub>
 
 ---
 
@@ -19,4 +19,4 @@
 
 ---
 
-<sub>© Carlette — less, but better.</sub>
+<sub>always building something.</sub>

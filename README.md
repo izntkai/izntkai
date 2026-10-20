@@ -1,52 +1,36 @@
 <div align="center">
 
-# hey, i'm kai.
+# kai.
 
-developer, builder, and someone who enjoys turning ideas into real things.
+<sub>design · develop · create</sub>
 
-i build things for the web, experiment with new technologies, and occasionally start projects that are way bigger than i initially planned.
+<br>
 
-### currently
-
-building projects and exploring new ideas  
-learning something new every day  
-focused on creating useful, thoughtful digital experiences
-
-### tech stack
+### stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32" height="32" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" height="32" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32" height="32" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,git,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
-### projects
+<br>
 
-**[klipply](https://klipply.xyz)** — a platform connecting brands and creators through content campaigns.
+### activity
 
-**lifora** — a realistic, story-driven life simulation game.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=izntkai&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izntkai&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
 
-**uniflix** — a streaming interface experiment designed for every screen.
-
-### github stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=izntkai&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izntkai&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+<br>
 
 <img src="https://streak-stats.demolab.com?user=izntkai&theme=transparent&hide_border=true" alt="GitHub Streak" />
 
-### elsewhere
+<br>
 
-[github](https://github.com/izntkai) · [website](https://klipply.xyz)
+### connect
 
----
+<a href="https://github.com/izntkai">github</a> · <a href="https://klipply.xyz">website</a>
 
-<sub>always building something.</sub>
+<br>
+
+<sub>less, but better.</sub>
 
 </div>

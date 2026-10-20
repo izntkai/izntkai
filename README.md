@@ -1,34 +1,22 @@
-<div align="center">
-
 # Carlette
 
-<sub>Full Stack Developer</sub>
+**Full Stack Developer**  
+<sub>Building things for the web and beyond.</sub>
 
-<br>
+---
 
-### stack
+### 01 / stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,git,vscode&theme=dark" alt="Tech Stack" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,git,vscode&theme=dark" alt="Tech Stack" />
 
-<br>
-
-### activity
-
-
-<br>
+### 02 / activity
 
 <img src="https://streak-stats.demolab.com?user=izntkai&theme=transparent&hide_border=true" alt="GitHub Streak" />
 
-<br>
+### 03 / connect
 
-### connect
+[GitHub](https://github.com/izntkai) &nbsp;·&nbsp; [Website](https://klipply.xyz)
 
-<a href="https://github.com/izntkai">github</a> · <a href="https://klipply.xyz">website</a>
+---
 
-<br>
-
-<sub>less, but better.</sub>
-
-</div>
+<sub>© Carlette — less, but better.</sub>

@@ -1,8 +1,8 @@
 <div align="center">
 
-# kai.
+# Carlette
 
-<sub>design · develop · create</sub>
+<sub>Full Stack Developer</sub>
 
 <br>
 
@@ -16,8 +16,6 @@
 
 ### activity
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=izntkai&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izntkai&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
 
 <br>
 

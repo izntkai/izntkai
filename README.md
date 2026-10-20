@@ -13,10 +13,6 @@
 
 <img src="https://streak-stats.demolab.com?user=izntkai&theme=transparent&hide_border=true" alt="GitHub Streak" />
 
-### 03 / connect
-
-[GitHub](https://github.com/izntkai) &nbsp;·&nbsp; [Website](https://klipply.xyz)
-
 ---
 
 <sub>always building something.</sub>
